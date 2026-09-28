@@ -30,6 +30,8 @@ body
     margin-left: 15%;
     padding: 25px;
     background-color: #ccc5b9;
+    border-radius: 16px;
+    margin-bottom: 16px;
 }
 
 #accessUIDiv
@@ -39,6 +41,7 @@ body
     margin-left: 15%;
     padding: 25px;
     background-color: #ccc5b9;
+    border-radius: 16px;
 }
 
 .buttons
